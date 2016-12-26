@@ -1,3 +1,4 @@
 # QLTheTV 
 Xin Chao !!!
-Day la Project ban dau.
+Add Project ban dau.
+Add CSDL QL the thanh vien
